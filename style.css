@@ -1,0 +1,22 @@
+body{
+    justify-content: center;
+    text-align:center;
+    background-color: #fff;
+
+}
+.main{
+    background-color: #d3d3d3;
+    width:600px;
+   padding: 20px;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+#mytext{
+    width:90%;
+    padding: 10px;
+    border: 2px solid #ddd;
+    border-radius: 9px;
+    resize: vertical;
+    min-height: 200px;
+}
